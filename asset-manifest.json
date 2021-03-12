@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/HamburgerSideNav/static/css/main.ecdac676.chunk.css",
+    "main.js": "/HamburgerSideNav/static/js/main.e0053ad7.chunk.js",
+    "main.js.map": "/HamburgerSideNav/static/js/main.e0053ad7.chunk.js.map",
+    "runtime-main.js": "/HamburgerSideNav/static/js/runtime-main.ecadd134.js",
+    "runtime-main.js.map": "/HamburgerSideNav/static/js/runtime-main.ecadd134.js.map",
+    "static/js/2.57b95a17.chunk.js": "/HamburgerSideNav/static/js/2.57b95a17.chunk.js",
+    "static/js/2.57b95a17.chunk.js.map": "/HamburgerSideNav/static/js/2.57b95a17.chunk.js.map",
+    "static/js/3.f7187558.chunk.js": "/HamburgerSideNav/static/js/3.f7187558.chunk.js",
+    "static/js/3.f7187558.chunk.js.map": "/HamburgerSideNav/static/js/3.f7187558.chunk.js.map",
+    "index.html": "/HamburgerSideNav/index.html",
+    "static/css/main.ecdac676.chunk.css.map": "/HamburgerSideNav/static/css/main.ecdac676.chunk.css.map",
+    "static/js/2.57b95a17.chunk.js.LICENSE.txt": "/HamburgerSideNav/static/js/2.57b95a17.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ecadd134.js",
+    "static/js/2.57b95a17.chunk.js",
+    "static/css/main.ecdac676.chunk.css",
+    "static/js/main.e0053ad7.chunk.js"
+  ]
+}
